@@ -1,5 +1,6 @@
 .env
 __pycache__/
-*.db
 *.log
 *.sqlite
+*.db
+.venv/
