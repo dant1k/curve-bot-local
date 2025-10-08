@@ -4,3 +4,10 @@ __pycache__/
 *.sqlite
 *.db
 .venv/
+.env
+.env.*
+__pycache__/
+*.log
+*.sqlite
+*.db
+.venv/
